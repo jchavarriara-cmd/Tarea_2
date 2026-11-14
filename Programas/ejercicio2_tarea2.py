@@ -1,5 +1,13 @@
 
 
+#===============================================================
+# Archivo: ejercicio2_tarea2.py
+# Curso: SOFT-01 Principios de Programación 1 - Sección SCV2
+# Alumno: Jorge Chavarría Ramírez
+# Fecha: 22/11/2026 
+# Descripción: Ejercicio 2. Registro semanal de consumo de agua
+#===============================================================
+
 consumo_total = 0
 consumo_mayor = 0
 dias_superior_150 = 0

@@ -1,5 +1,13 @@
 
 
+#========================================================================
+# Archivo: ejercicio3_tarea2.py
+# Curso: SOFT-01 Principios de Programación 1 - Sección SCV2
+# Alumno: Jorge Chavarría Ramírez
+# Fecha: 22/11/2026 
+# Descripción: Ejercicio 3. Administración de un estacionamiento privado 
+#========================================================================
+
 # Declaración de las variables
 CAPACIDAD = 20
 ocupacion = 0

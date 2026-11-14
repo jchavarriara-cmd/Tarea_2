@@ -1,4 +1,12 @@
 
+#============================================================================
+# Archivo: ejercicio1_tarea2.py
+# Curso: SOFT-01 Principios de Programación 1 - Sección SCV2
+# Alumno: Jorge Chavarría Ramírez
+# Fecha: 22/11/2026 
+# Descripción: Ejercicio 1. Control de temperatura de una cámara experimental 
+#============================================================================
+
 
 temperatura_inicial = float(input("Ingrese la temperatura inicial en °C: "))
 temperatura_objetivo = float(input("Ingrese la temperatura objetivo en °C: "))
