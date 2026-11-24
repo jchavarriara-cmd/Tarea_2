@@ -22,8 +22,8 @@ else:
     print()
     while temperatura_actual < temperatura_objetivo:
         
-        temperatura_actual = temperatura_actual + incremento
-        ciclos = ciclos + 1
+        temperatura_actual += incremento
+        ciclos += 1
         
         print(f"Ciclo: {ciclos}, temperatura: {temperatura_actual} °C")
 
